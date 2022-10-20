@@ -1,1 +1,1 @@
-# seasonsixty-java
+# Seasonsixty-Java
